@@ -1,9 +1,3 @@
-<%-- 
-    Document   : user_notification
-    Created on : Mar 23, 2019, 12:20:22 AM
-    Author     : Mohit
---%>
-
 
 <%@page import="db.DBConnector"%>
 <%@page import="com.mysql.jdbc.Connection"%>
