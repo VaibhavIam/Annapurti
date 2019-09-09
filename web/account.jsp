@@ -1,8 +1,3 @@
-<%-- 
-    Document   : people
-    Created on : 7 Mar, 2019, 8:55:14 PM
-    Author     : Alok Hirwe
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 

@@ -1,0 +1,28 @@
+SMAP
+feed_005fform_jsp.java
+JSP
+*S JSP
+*F
++ 0 feed_form.jsp
+feed_form.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,2:59
+1#1,12:61
+12:72
+14,8:74
+21,25:82
+45,15:107
+59,4:122
+63:126,3
+64,3:129
+66,8:132
+73,42:140
+115:182,3
+116,33:185
+3#0,53:217
+1#2,43:269
+*E

@@ -1,11 +1,4 @@
 
-
-<%-- 
-    Document   : index
-    Created on : 22 Feb, 2019, 6:56:56 PM
-    Author     : Alok Hirwe
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
